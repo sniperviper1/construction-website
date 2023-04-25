@@ -1,0 +1,23 @@
+body{
+
+}
+.title{
+  background-color: rgb(130,152,147);
+  overflow: auto;
+  text-align: center;
+  margin-left: none;
+  margin-right: none;
+  padding-left: 0%;
+  padding-right: 0%;
+
+}
+.nav-link{
+    min-height: 1px;
+      padding-left: 22px;
+      padding-right: 22px;
+      display: inline-block;
+      font-size: 33px;
+      position: relative;
+
+}
+s
